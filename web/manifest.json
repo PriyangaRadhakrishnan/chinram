@@ -1,6 +1,6 @@
 {
-    "name": "chinram_app",
-    "short_name": "chinram_app",
+    "name": "ChinRam",
+    "short_name": "ChinRam",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
